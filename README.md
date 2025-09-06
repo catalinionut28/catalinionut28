@@ -3,7 +3,7 @@
 I am a student at Faculty of Automatic Control and Computer Science, Bucharest, Romania.
 
 ## 📫 How to reach me:
-- 📧 [Email](catalinvasile2810@yahoo.com)
+- 📧 catalinvasile2810@yahoo.com
 - 🟦 [LinkedIn](https://www.linkedin.com/in/catalin-ionut-vasile-7b54b9322/)
 
 <!--
